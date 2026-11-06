@@ -1,0 +1,4 @@
+path: "object detection(Detection_FootballvsCricketBall)/data"
+train: images/train
+val: images/valid
+names: ["cricket ball", "football"]

@@ -1,0 +1,25 @@
+{
+  "data": "object detection(Detection_FootballvsCricketBall)\\data",
+  "splits": {
+    "train": {
+      "images": 679,
+      "labels": 679,
+      "objects_per_class": {
+        "0": 111,
+        "1": 685
+      },
+      "empty_labels": 0
+    },
+    "valid": {
+      "images": 190,
+      "labels": 190,
+      "objects_per_class": {
+        "0": 31,
+        "1": 181
+      },
+      "empty_labels": 0
+    }
+  },
+  "errors": [],
+  "warnings": []
+}
